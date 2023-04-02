@@ -1,0 +1,19 @@
+{
+  "name": "fastifymysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cors": "^8.1.0",
+    "@fastify/mysql": "^4.0.0",
+    "fastify": "^4.2.0",
+    "fastify-plugin": "^3.0.1",
+    "vue-i18n": "^9.2.2"
+  }
+}
